@@ -1,1 +1,5 @@
-# backend
+## RUN
+
+```
+./scripts/docker.sh
+```
